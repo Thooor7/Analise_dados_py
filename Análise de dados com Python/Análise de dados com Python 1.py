@@ -113,7 +113,7 @@ Podemos fazer promoções para o cliente ir para o contrato anual
 Familias maiores tendem a cancelar menos do que famílias menores
 
 Podemos fazer promoções pra pessoa pegar uma linha adicional de telefone
-MesesComoCliente baixos tem MUITO cancelamento. Clientes com pouco tempo como cliente tendem a cancelar muito
+Meses Com Cliente baixos tem MUITO cancelamento. Clientes com pouco tempo como cliente tendem a cancelar muito
 
 A primeira experiência do cliente na operadora pode ser ruim
 Talvez a captação de clientes tá trazendo clientes desqualificados
